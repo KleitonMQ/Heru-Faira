@@ -5,13 +5,13 @@
     <h3>Conceito geral</h3>
     <div style=display:flex>
         <p>
-            O personagem precisa desviar e derrotar inimigos, coletar power up's para melhorar vecolidadee e poder de fogo enquanto progride. <br>
+            O personagem precisa desviar e derrotar inimigos, coletar power up's para melhorar vecolidade e poder de fogo enquanto progride. <br>
             Quanto mais avança, inimigos mais fortes surgem.
         </p>
     </div>
     <h3 align="center">Configuração de Controle: MOBILE</h3>
     <p>Ao inicar o jogo em dispositívo móvel irá aparecer os botões de alterar direção dos projéteis e botão para disparar especial. <br> 
-    Neste modo, é possivel deslogar o personagem pela tela tocando no local que ele deve ir.</p>
+    Neste modo, é possivel deslocar o personagem pela tela segurando o toque no local que ele deve ir.</p>
     <h3 align="center">Configuração de Controle: WEB</h3>
     <ul>
         <li>Pressione qualquer técla na tela de "Iniciar o jogo".</li>
