@@ -9,7 +9,6 @@
             Quanto mais avança, inimigos mais fortes surgem.
         </p>
     </div>
-
     <h3 align="center">Configuração de Controle: MOBILE</h3>
     <p>Ao inicar o jogo em dispositívo móvel irá aparecer os botões de alterar direção dos projéteis e botão para disparar especial. <br> 
     Neste modo, é possivel deslogar o personagem pela tela tocando no local que ele deve ir.</p>
@@ -27,11 +26,8 @@
         <img width="450" src="Screenshots/Screenshot3.png" alt="Imagem3">
         <img width="450" src="Screenshots/Screenshot4.png" alt="Imagem4">
     </div>
-
-    
     <h3 align="center">É possivel abrir esta demonstração do jogo para testá-lo clicando no ícone abaixo.<a href="https://kleitonmq.github.io/Heru-Faira/"><br> <br> <img src="https://construct-static.com/images/v1016/r/global/construct-3-logo_v43.png" alt="Construct Ico"></a> </h3>
     </div>
-    
     <h3>Planejamento de atualizações:</h3>
     <ul>
         <li>Inclusão da fase 2.</li>
