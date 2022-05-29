@@ -21,10 +21,10 @@
     </ul>
     <p>Obs: Se estiver em ambiente WEB e utilizar o mouse para iniciar o jogo, os controles do modo MOBILE serão ativos.</p>
     <div align="center">
-        <img width="450" src="Screenshots/Screenshot1.png" alt="Imagem1">
-        <img width="450" src="Screenshots/Screenshot2.png" alt="Imagem2">
-        <img width="450" src="Screenshots/Screenshot3.png" alt="Imagem3">
-        <img width="450" src="Screenshots/Screenshot4.png" alt="Imagem4">
+        <img height="250" src="Screenshots/Screenshot1.png" alt="Imagem1">
+        <img height="250" src="Screenshots/Screenshot2.png" alt="Imagem2">
+        <img height="250" src="Screenshots/Screenshot3.png" alt="Imagem3">
+        <img height="250" src="Screenshots/Screenshot4.png" alt="Imagem4">
     </div>
     <h3 align="center">É possivel abrir esta demonstração do jogo para testá-lo clicando no ícone abaixo.<a href="https://kleitonmq.github.io/Heru-Faira/"><br> <br> <img src="https://construct-static.com/images/v1016/r/global/construct-3-logo_v43.png" alt="Construct Ico"></a> </h3>
     </div>
